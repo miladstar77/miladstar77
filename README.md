@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miladstar77
 - 👀 I’m interested in Linux and open source technology and  Devops tools.
-- 🌱 I’m currently learning Ansible, Docker, K8, Git.
+- 🌱 I’m currently learning Ansible, Docker, K8, Git & Jenkins.
 - 💞️ I’m looking to collaborate on python, linux and Devops.
 - 📫 miladrezaei.it@gmail.com
 
